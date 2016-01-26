@@ -150,10 +150,10 @@ public class HeapTree {
     }
     public void Display()
     {
-        System.out.println("			                   "
+        System.out.println("                               "
                 + "" +treeArray[1] );
         System.out.println("                                           |"); 
-        System.out.println("	  	   "+treeArray[2]+"--------------------"
+        System.out.println("             "+treeArray[2]+"--------------------"
                 + "^--------------------"+treeArray[3]);
         System.out.println("                     |                            "
                 + "               |");
